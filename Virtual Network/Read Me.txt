@@ -1,0 +1,9 @@
+Run in Netbeans not CMD
+1-Start by running the file ISPMain right click and run file. to start the ISP
+2-run ServerDriver to Start a router add as much as you want
+3-pick the Interface and connect to other routers.
+4-Start CLients by running ClientGUI file
+5-pick the router to connect
+6-if you didnt specify a distination the message will be sent back to you.
+7-type the SIP of the reciever and send him a message
+8-Type ping to send a ping. it will be returned and printed on both clients
